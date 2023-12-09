@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rinish_portfolio/static/css/main.d9ab319d.css",
+    "main.js": "/rinish_portfolio/static/js/main.b80aef6c.js",
+    "static/media/curry.png": "/rinish_portfolio/static/media/curry.3b0321cf17f9e82aa0a5.png",
+    "static/media/ignite.PNG": "/rinish_portfolio/static/media/ignite.6f9320aca5a8c76d3e69.PNG",
+    "static/media/project3.png": "/rinish_portfolio/static/media/project3.5aec31e1a9096d9bc66e.png",
+    "static/media/my.jpg": "/rinish_portfolio/static/media/my.e3ea923917259c52e2a9.jpg",
+    "static/media/j.png": "/rinish_portfolio/static/media/j.de83bc319dc259379774.png",
+    "static/media/project2.png": "/rinish_portfolio/static/media/project2.d17314e7b040aa40d18a.png",
+    "static/media/portfolio.svg": "/rinish_portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/rinish_portfolio/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/rinish_portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/rinish_portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/rinish_portfolio/index.html",
+    "main.d9ab319d.css.map": "/rinish_portfolio/static/css/main.d9ab319d.css.map",
+    "main.b80aef6c.js.map": "/rinish_portfolio/static/js/main.b80aef6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ab319d.css",
+    "static/js/main.b80aef6c.js"
+  ]
+}
